@@ -22,6 +22,24 @@ These are images of the app running:
 </p>
 <img src="https://github.com/AlejandroFerrera/Java-patient-care-crud/blob/master/clinica%20screenshots/Mantenedor%20Atenciones.jpg">  
 </td>
+</tr>
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+ Login
+</p>
+<img src="https://github.com/AlejandroFerrera/JframeJava-patient-care-crud/blob/master/clinica%20screenshots/Login.jpg">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Specialties CRUD
+</p>
+<img src="https://github.com/AlejandroFerrera/JframeJava-patient-care-crud/blob/master/clinica%20screenshots/Mantenedor%20especialidades.jpg">  
+</td>
+</tr>
 </table>
 
 
